@@ -2,7 +2,7 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20there!&fontSize=90" />	
 </div>
 <div align="center">
-	<h3>📚 PORTFOLIO 확인하기 📚</h3>
+	<h3>📚 PORTFOLIO📚</h3>
 	<a href="https://miloe2.github.io/portfolio" target="_blank">https://miloe2.github.io/portfolio</a>
 	<br>
 	<h3>✨ TechStack ✨</h3>
