@@ -3,7 +3,7 @@
 </div>
 <div align="center">
 	<h3>📚 PORTFOLIO 확인하기 📚</h3>
-	<a href="https://portfolio.ts.vite/" target="_blank">https://miloe2.github.io/portfolio.ts.vite/</a>
+	<a href="https://miloe2.github.io/portfolio" target="_blank">https://miloe2.github.io/portfolio</a>
 	<br>
 	<h3>✨ TechStack ✨</h3>
 </div>
